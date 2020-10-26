@@ -1,0 +1,33 @@
+.header {
+  text-align: center;
+  font-size: 5rem;
+}
+
+.todo {
+  list-style: none;
+}
+
+.inputTitle {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  margin-left: 50px;
+  width: 300px;
+  border-radius: 0px 10px;
+  font-size: 1.5rem;
+}
+
+.addToList {
+  margin-left: 10px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-radius: 10px 0px;
+  font-size: 1.5rem;
+}
+
+.addToList:hover {
+  cursor: pointer;
+  background-color: pink;
+}

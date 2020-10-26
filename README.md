@@ -1,3 +1,23 @@
+This project is practised to the following of youtube link.
+https://www.youtube.com/watch?v=KfH34H6ppnc&t=54s
+
+This Project is included with the following topic.
+
+1. Functional components
+2. Class components
+3. JSX
+4. Props
+5. State
+6. Inline style
+7. External Css
+8. Module level css
+9. Dynamic items rendering
+10. Two way input binding
+11. Fetch API
+12. Life Cycle Methods
+13. React Hooks
+    and more ...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
